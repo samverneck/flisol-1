@@ -5730,7 +5730,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.72390056"
-     inkscape:cx="205.52562"
+     inkscape:cx="208.28843"
      inkscape:cy="356.28816"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -5752,7 +5752,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -19352,10 +19352,10 @@
          id="tspan4441"
          y="1020.1321"
          x="460.63074"
-         sodipodi:role="line">flisol.curitibalivre.org.br</tspan></text>
+         sodipodi:role="line">curitiba.flisol.org.br</tspan></text>
     <rect
        ry="42.266815"
-       y="950.97089"
+       y="952.89117"
        x="253.87354"
        height="84.53363"
        width="414.06738"

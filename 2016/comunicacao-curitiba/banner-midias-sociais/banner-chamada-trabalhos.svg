@@ -5473,15 +5473,6 @@
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4808-4-4">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.5662296"
-         id="feGaussianBlur4810-8-1" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -5491,10 +5482,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="771.73768"
+     inkscape:cx="774.59482"
      inkscape:cy="355.53226"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5646"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1022"
@@ -5593,37 +5584,6 @@
        d="m -9.2744265,882.72847 769.5051565,0 0,174.71063 -769.5051565,0 z"
        id="rect2996-4"
        inkscape:connector-curvature="0" />
-    <g
-       id="g4004"
-       transform="matrix(2.3125565,0,0,2.3125565,-508.52544,-1052.5799)">
-      <g
-         id="g4447"
-         transform="matrix(0.78587969,0,0,0.78587969,87.887182,195.49564)">
-        <text
-           sodipodi:linespacing="125%"
-           id="text4356"
-           y="869.44452"
-           x="448.74026"
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           xml:space="preserve"><tspan
-             id="tspan4437"
-             y="869.44452"
-             x="448.74026"
-             sodipodi:role="line">Informações e inscrição:</tspan><tspan
-             id="tspan4441"
-             y="889.44452"
-             x="448.74026"
-             sodipodi:role="line">flisol.curitibalivre.org.br</tspan></text>
-        <rect
-           ry="24.82686"
-           y="850.95056"
-           x="328.35938"
-           height="49.653721"
-           width="243.21664"
-           id="rect3893"
-           style="opacity:0.41525424;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      </g>
-    </g>
     <g
        transform="matrix(0.32310823,0,0,0.32310823,406.98567,879.23389)"
        style="font-size:62.99098969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:54.99901581px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
@@ -18981,6 +18941,38 @@
              y="445.40472"
              x="525.53485"
              sodipodi:role="line">Instalação de Software Livre</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(1.8173912,0,0,1.8173912,-312.05304,-597.24772)"
+       id="g5646">
+      <g
+         id="g5631"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4356-3"
+           y="870.28082"
+           x="453.42444"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
+           xml:space="preserve"><tspan
+             id="tspan4437-6"
+             y="870.28082"
+             x="453.42444"
+             sodipodi:role="line">Informações e inscrição:</tspan><tspan
+             id="tspan4441-9"
+             y="890.28082"
+             x="453.42444"
+             sodipodi:role="line">curitiba.flisol.org.br</tspan></text>
+        <rect
+           ry="24.82686"
+           y="851.41101"
+           x="331.5036"
+           height="49.653721"
+           width="243.21664"
+           id="rect3893-9"
+           style="opacity:0.41525424;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
     </g>
   </g>

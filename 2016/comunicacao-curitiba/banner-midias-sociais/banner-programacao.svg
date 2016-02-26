@@ -5473,15 +5473,6 @@
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4808-4-4">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.5662296"
-         id="feGaussianBlur4810-8-1" />
-    </filter>
     <linearGradient
        id="linearGradient3312">
       <stop
@@ -6048,7 +6039,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="810.27238"
+     inkscape:cx="813.12952"
      inkscape:cy="355.53226"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -6070,7 +6061,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6093,37 +6084,6 @@
        d="m -9.2744265,882.72847 769.5051565,0 0,174.71063 -769.5051565,0 z"
        id="rect2996-4"
        inkscape:connector-curvature="0" />
-    <g
-       id="g4004"
-       transform="matrix(2.3125565,0,0,2.3125565,-508.52544,-1052.5799)">
-      <g
-         id="g4447"
-         transform="matrix(0.78587969,0,0,0.78587969,87.887182,195.49564)">
-        <text
-           sodipodi:linespacing="125%"
-           id="text4356"
-           y="869.44452"
-           x="448.74026"
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           xml:space="preserve"><tspan
-             id="tspan4437"
-             y="869.44452"
-             x="448.74026"
-             sodipodi:role="line">Informações e inscrição:</tspan><tspan
-             id="tspan4441"
-             y="889.44452"
-             x="448.74026"
-             sodipodi:role="line">flisol.curitibalivre.org.br</tspan></text>
-        <rect
-           ry="24.82686"
-           y="850.95056"
-           x="328.35938"
-           height="49.653721"
-           width="243.21664"
-           id="rect3893"
-           style="opacity:0.41525424;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      </g>
-    </g>
     <g
        transform="matrix(0.32310823,0,0,0.32310823,406.98567,879.23389)"
        style="font-size:62.99098969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:54.99901581px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
@@ -19561,6 +19521,33 @@
          id="path7540-9-7"
          d="m 446.50528,1154.9166 c 0,1.8509 -1.50051,3.3516 -3.35148,3.3516 -1.85098,0 -3.35151,-1.5007 -3.35151,-3.3516 0,-1.851 1.50053,-3.3515 3.35151,-3.3515 1.85097,0 3.35148,1.5005 3.35148,3.3515 z"
          style="opacity:0.99166697;fill:url(#radialGradient6047-8);fill-opacity:1;stroke:#000000;stroke-width:1.15980732;stroke-miterlimit:4;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(1.8173912,0,0,1.8173912,-320.62448,-598.67625)"
+       id="g5631">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4356-3"
+         y="870.28082"
+         x="453.42444"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
+         xml:space="preserve"><tspan
+           id="tspan4437-6"
+           y="870.28082"
+           x="453.42444"
+           sodipodi:role="line">Informações e inscrição:</tspan><tspan
+           id="tspan4441-9"
+           y="890.28082"
+           x="453.42444"
+           sodipodi:role="line">curitiba.flisol.org.br</tspan></text>
+      <rect
+         ry="24.82686"
+         y="851.41101"
+         x="331.5036"
+         height="49.653721"
+         width="243.21664"
+         id="rect3893-9"
+         style="opacity:0.41525424;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
   </g>
 </svg>

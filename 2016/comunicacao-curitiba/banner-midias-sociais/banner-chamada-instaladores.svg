@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="banner-chamada-instaladores.svg"
-   inkscape:export-filename="/home/phls/Dropbox/eventos/flisol/2015/banners/curitiba/banner-fb-curitiba-instaladores.png"
+   inkscape:export-filename="/media/phls/SAMSUNG/backup-notebook-phls-2016-02-01/phls/eventos/flisol/2016/comunicacao-curitiba/banner-midias-sociais/banner-chamada-instaladores.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -5482,10 +5482,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="388.0439"
-     inkscape:cy="355.53226"
+     inkscape:cx="390.06421"
+     inkscape:cy="234.31396"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4447"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1022"
@@ -5504,7 +5504,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5576,29 +5576,32 @@
       <g
          id="g4447"
          transform="matrix(0.78587969,0,0,0.78587969,87.887182,195.49564)">
-        <text
-           sodipodi:linespacing="125%"
-           id="text4356"
-           y="869.44452"
-           x="448.74026"
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           xml:space="preserve"><tspan
-             id="tspan4437"
-             y="869.44452"
-             x="448.74026"
-             sodipodi:role="line">Informações e inscrição:</tspan><tspan
-             id="tspan4441"
-             y="889.44452"
-             x="448.74026"
-             sodipodi:role="line">flisol.curitibalivre.org.br</tspan></text>
-        <rect
-           ry="24.82686"
-           y="850.95056"
-           x="328.35938"
-           height="49.653721"
-           width="243.21664"
-           id="rect3893"
-           style="opacity:0.41525424;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <g
+           id="g5646">
+          <text
+             xml:space="preserve"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
+             x="450.28021"
+             y="868.70874"
+             id="text4356"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="450.28021"
+               y="868.70874"
+               id="tspan4437">Informações e inscrição:</tspan><tspan
+               sodipodi:role="line"
+               x="450.28021"
+               y="888.70874"
+               id="tspan4441">curitiba.flisol.org.br</tspan></text>
+          <rect
+             style="opacity:0.41525424;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="rect3893"
+             width="243.21664"
+             height="49.653721"
+             x="328.35938"
+             y="849.83893"
+             ry="24.82686" />
+        </g>
       </g>
     </g>
     <g

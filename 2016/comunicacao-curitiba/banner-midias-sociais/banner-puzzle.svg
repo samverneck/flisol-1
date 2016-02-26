@@ -3578,10 +3578,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="420.04543"
+     inkscape:cx="422.90257"
      inkscape:cy="430.2247"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3081"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1022"
@@ -3596,7 +3596,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3927,13 +3927,13 @@
          xml:space="preserve"
          transform="matrix(0,-1.0442506,0.95762454,0,0,0)"
          id="text7022-6"
-         y="1172.9705"
-         x="-806.90039"
+         y="1196.2819"
+         x="-714.26404"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           x="-806.90039"
+           x="-714.26404"
            id="tspan7024-7"
-           y="1172.9705">flisol.curitibalivre.org.br</tspan></text>
+           y="1196.2819">curritiba.flisol.org.br</tspan></text>
       <g
          id="g12778"
          transform="matrix(2.5491194,0,0,2.5491194,550.69209,-4231.8074)">
