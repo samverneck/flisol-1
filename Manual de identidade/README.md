@@ -1,4 +1,5 @@
-FLISOL - Festival Latino-americano de Instalação de Software Livre.
+FLISOL - FESTIVAL LATINO-AMERICANO DE INSTALAÇÃO DE SOFTWARE LIVRE
+------------------------------------------------------------------
 
 Manual de identidade
 --------------------
